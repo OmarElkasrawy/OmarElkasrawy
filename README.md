@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omar Elkasrawy</h1>
 <h3 align="center">A passionate developer from Egypt</h3>
 
-- 🔭 I’m currently working on **Modified Vigenère cipher**
+- 🔭 I’m currently working on **Modified Vigenère Cipher, analyze an e-education content provider as a Cyber Security Professional, and other course works.**
 
 - 🌱 I’m currently learning **Legal and foundation of ethical hacking/Foundations of Cyber Security/Programming and Algorithms**
 
