@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Omar Elkasrawy</h1>
 <h3 align="center">A passionate developer from Egypt</h3>
 
-- 🔭 I worked on **Modified Vigenère Cipher, analyze an e-education content provider as a Cyber Security Professional.**
+- 🌱 I am an **Ethical Hacking/Cybersecurity** student at **The Knowledge Hub Universities - Coventry University, a General Python Developer with 3 years of experience         and a Game Developer at Roblox with 8 years of experience.**
 
-- 🌱 As a cybersecurity student, I learned **Legal and foundation of ethical hacking/Foundations of Cybersecurity/Programming and Algorithms**
+- 🔭 I programmed a **Modified Vigenère Cipher, and analyzed an e-education content provider as a Cyber Security Professional.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
