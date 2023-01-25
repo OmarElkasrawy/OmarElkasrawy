@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Omar Elkasrawy</h1>
 <h3 align="center">A passionate developer from Egypt</h3>
 
-- 🔭 I’m currently working on **Modified Vigenère Cipher, analyze an e-education content provider as a Cyber Security Professional, and other course works.**
+- 🔭 I worked on **Modified Vigenère Cipher, analyze an e-education content provider as a Cyber Security Professional.**
 
-- 🌱 I’m currently learning **Legal and foundation of ethical hacking/Foundations of Cyber Security/Programming and Algorithms**
+- 🌱 As a cybersecurity student, I learned **Legal and foundation of ethical hacking/Foundations of Cybersecurity/Programming and Algorithms**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
