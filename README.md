@@ -3,10 +3,8 @@
 
 - 🌱 I am an **Ethical Hacking/Cybersecurity** student at **The Knowledge Hub Universities - Coventry University, a General Python Developer with 3 years of experience         and a Game Developer at Roblox with 8 years of experience.**
 
-- 🔭 I programmed a **Modified Vigenère Cipher, and analyzed an e-education content provider as a Cyber Security Professional.**
-
-
 <h3 align="left">Connect with me:</h3>
+legacy#2492
 <p align="left">
 </p>
 
