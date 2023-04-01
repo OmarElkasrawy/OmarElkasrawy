@@ -1,7 +1,15 @@
 <h1 align="center">Hi 👋, I'm Omar Elkasrawy</h1>
-<h3 align="center">A passionate developer from Egypt</h3>
 
-- 🌱 I am an Ethical Hacking/Cybersecurity student at The Knowledge Hub Universities - Coventry University. Primarily focused on Security Python Development and Game Development at Roblox.
+- 🌱 I am an Ethical Hacking & Cybersecurity student at The Knowledge Hub Universities - Coventry University. Primarily focused on gameplay system, logic, and mechanics development at Roblox. Moreover, I also work with the following related to Ethical Hacking & Cybersecurity:
+
+1. Python
+2. HTML (HyperText Markup Language)
+3. JavaScript
+4. CSS (Cascading Style Sheets
+5. PHP (Hypertext Preprocessor)
+6. MySQL (My Structured Query Language)
+
+I am also passionate about learning and committed to continual improvement!
 
 <h3 align="left">Connect with me:</h3>
 legacy#2492
