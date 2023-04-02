@@ -5,7 +5,7 @@
 1. Python
 2. HTML (HyperText Markup Language)
 3. JavaScript
-4. CSS (Cascading Style Sheets
+4. CSS (Cascading Style Sheets)
 5. PHP (Hypertext Preprocessor)
 6. MySQL (My Structured Query Language)
 
