@@ -7,7 +7,8 @@ Alongside my studies, I am also a freelance Roblox game developer with a keen in
 I am also passionate about learning and committed to continual improvement!
 
 <h3 align="left">Connect with me:</h3>
-legacy#2492
+https://www.linkedin.com/in/omarelkasrawy/
+Discord: legafall
 <p align="left">
 </p>
 
