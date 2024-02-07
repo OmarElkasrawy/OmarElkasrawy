@@ -8,6 +8,7 @@ I am also passionate about learning and committed to continual improvement!
 
 <h3 align="left">Connect with me:</h3>
 https://www.linkedin.com/in/omarelkasrawy/
+<br>
 Discord: legafall
 <p align="left">
 </p>
